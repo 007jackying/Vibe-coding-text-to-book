@@ -1,0 +1,5 @@
+{
+  "name": "ZenReader",
+  "description": "A distraction-free book reader that converts raw text into a paginated, customizable reading experience with AI-powered text polishing.",
+  "requestFramePermissions": []
+}
