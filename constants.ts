@@ -33,7 +33,7 @@ export const THEMES: Record<Theme, { bg: string; text: string; accent: string; u
 
 export const MIN_FONT_SIZE = 14;
 export const MAX_FONT_SIZE = 32;
-export const DEFAULT_CONTENT = `Paste your book text here to get started, or ask AI to generate a story for you!
+export const DEFAULT_CONTENT = `Paste your book text here to get started.
 
 Welcome to ZenReader. This application uses modern web technologies to simulate a physical book reading experience.
 
